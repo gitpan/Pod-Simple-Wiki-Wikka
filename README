@@ -47,6 +47,11 @@ ACKNOWLEDGEMENTS
     Thanks to Portme McPortme and Portme O'Portme for patches, documentation
     or bugfixes.
 
+HISTORY
+    Nov 21, 2008 - Fixed bug in test script. (No changes to actual code.)
+
+    Nov 20, 2008 - Inital release.
+
 DISCLAIMER OF WARRANTY
     Please refer to the DISCLAIMER OF WARRANTY in Pod::Simple::Wiki.
 

@@ -6,7 +6,7 @@ use vars qw(@ISA $VERSION);
 
 
 @ISA     = qw(Pod::Simple::Wiki);
-$VERSION = '0.08';
+$VERSION = '0.09';
 
 ###############################################################################
 #
@@ -183,6 +183,11 @@ This module also installs a C<pod2wiki> command line utility. See C<pod2wiki --h
 
 Thanks to Portme McPortme and Portme O'Portme for patches, documentation or bugfixes.
 
+=head1 HISTORY
+
+Nov 21, 2008 - Fixed bug in test script.  (No changes to actual code.)
+
+Nov 20, 2008 - Inital release.
 
 =head1 DISCLAIMER OF WARRANTY
 
